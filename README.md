@@ -1,7 +1,5 @@
 # CAFE.IN ☕
-HirwiGo | Tourism Destination Decision Support System in the Greater Bandung Area <br>
-Using fuzzy logic tahani method in decision making <br>
-Intended to fulfill the big task of Informatics Logic course
+Aplikasi untuk membantu pengguna yang kebingungan mencari rekomendasi cafe yang sesuai berdasarkan preferensi yang diinginkan, meliputi harga, fasilitas, jam operasional, tingkat kenyamanan, hingga rating dari Google.
 
 ## Petunjuk Instalasi ❓
 ### Using phpMyAdmin
