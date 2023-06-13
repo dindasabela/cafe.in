@@ -23,6 +23,9 @@ Aplikasi untuk membantu pengguna yang kebingungan mencari rekomendasi cafe yang 
 - Jam Operasional
 - Tingkat Kenyamanan
 
+## Link Demo Aplikasi 🔗
+https://bit.ly/DemoCafeIn
+
 ## Team 🧑‍🤝‍🧑
 - [Natasha Astia Dewanti](https://github.com/natashastia/)
 - [Dinda Sabela Rahma W](https://github.com/dindasabela/)
