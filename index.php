@@ -38,7 +38,7 @@
 								<ul class="left" style="margin-left: -52px;">
 									<li><a class="active" href="index.php">HOME</a></li>
 									<li><a href="rekomendasi.php">REKOMENDASI</a></li>
-									<li><a href="daftar_cafe.php">DAFTAR SMARTPHONE</a></li>
+									<li><a href="daftar_cafe.php">DAFTAR CAFE</a></li>
 									<li><a href="#about">TENTANG</a></li>
 								</ul>
 						</div>
@@ -52,17 +52,17 @@
 		<div id="index-banner" class="parallax-container">
 			<div class="section no-pad-bot">
 				<div class="container">
-					<h1 class="header jarak center white-text" style="font-size: 40px">CAFE.IN</h1>
+					<h1 class="header jarak center white-text" style="font-size: 40px font-bold">CAFE.IN</h1>
 					<h1 class="header jarak center white-text" style="font-size: 40px"></h1>
 					<div class="row center">
-						<h5 class="header jarak-button col s12 light" style="margin-bottom: 0px; font-size: 26px">Bingung mau ngerjain tugas dimana?</h5>
+						<h5 class="header jarak-button col s12 light" style="margin-bottom: 0px; font-size: 26px font-bold">BINGUNG MAU NGAFE DI MANA? CAFE.IN AJA</h5>
 					</div>
 					<div class="row center" \>
 								<a href="rekomendasi.php" id="download-button" class="waves-effect waves-light btn-large" style="margin-top: 40px">Pilih Rekomendasi</a>
 							</div>
 				</div>
 			</div>
-			<div class="parallax"><img src="assets/image/bg.png" alt="Laptop"></div>
+			<div class="parallax"><img src="assets/image/cafe.png" alt="Laptop"></div>
 		</div>
 		<!-- Jumbotron End -->
 
